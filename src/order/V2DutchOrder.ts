@@ -5,7 +5,7 @@ import {
   PermitTransferFromData,
   SignatureTransfer,
   Witness,
-} from "udonswap-permit2-sdk";
+} from "udonswap-permit2";
 
 import { getPermit2 } from "../utils";
 import { ResolvedUniswapXOrder } from "../utils/OrderQuoter";

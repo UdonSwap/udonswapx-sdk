@@ -1,4 +1,4 @@
-import { Currency, CurrencyAmount, Price, TradeType } from "udonswap-sdk-core";
+import { Currency, CurrencyAmount, Price, TradeType } from "udonswap-core";
 
 import { RelayOrder, RelayOrderInfo } from "../order";
 

@@ -3,7 +3,7 @@ import { BigNumber } from "ethers";
 import {
   PermitBatchTransferFromData,
   PermitTransferFromData,
-} from "udonswap-permit2-sdk";
+} from "udonswap-permit2";
 
 // General interface implemented by off chain orders
 export interface OffChainOrder {

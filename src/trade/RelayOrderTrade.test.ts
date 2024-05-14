@@ -1,5 +1,5 @@
 import { BigNumber, ethers } from "ethers";
-import { Currency, CurrencyAmount, Token, TradeType } from "udonswap-sdk-core";
+import { Currency, CurrencyAmount, Token, TradeType } from "udonswap-core";
 
 import { RelayOrderInfo } from "../order";
 

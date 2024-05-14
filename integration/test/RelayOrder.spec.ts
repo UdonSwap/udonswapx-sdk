@@ -13,7 +13,7 @@ import {
   RelayOrderReactor
 } from '../../src/contracts';
 import { RelayOrderBuilder } from '../../';
-import { PERMIT2_ADDRESS } from 'udonswap-permit2-sdk';
+import { PERMIT2_ADDRESS } from 'udonswap-permit2';
 import { deployAndReturnPermit2 } from './utils/permit2';
 
 describe('RelayOrder', () => {

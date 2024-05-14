@@ -1,5 +1,5 @@
 import { constants } from "ethers";
-import { ChainId, Currency } from "udonswap-sdk-core";
+import { ChainId, Currency } from "udonswap-core";
 
 export enum NativeAssets {
   MATIC = "MATIC",

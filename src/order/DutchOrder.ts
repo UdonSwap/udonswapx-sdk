@@ -6,7 +6,7 @@ import {
   PermitTransferFromData,
   SignatureTransfer,
   Witness,
-} from "udonswap-permit2-sdk";
+} from "udonswap-permit2";
 
 import { BPS, PERMIT2_MAPPING } from "../constants";
 import { MissingConfiguration } from "../errors";

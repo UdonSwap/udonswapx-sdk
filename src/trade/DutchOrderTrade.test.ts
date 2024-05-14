@@ -1,5 +1,5 @@
 import { BigNumber, constants, ethers } from "ethers";
-import { Currency, ETHER, Token, TradeType } from "udonswap-sdk-core";
+import { Currency, ETHER, Token, TradeType } from "udonswap-core";
 
 import { DutchOrderInfo } from "../order";
 

@@ -1,7 +1,7 @@
 import { Signer } from "ethers";
 import { ethers } from "hardhat";
 import Permit2Abi from '../../../abis/Permit2.json';
-import { PERMIT2_ADDRESS } from "udonswap-permit2-sdk";
+import { PERMIT2_ADDRESS } from "udonswap-permit2";
 import { Permit2 } from "../../../src/contracts";
 
 export async function deployAndReturnPermit2(signer: Signer) {
